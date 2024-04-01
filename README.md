@@ -8,3 +8,6 @@ pip install -r requirements.txt`
 
 First Run 'python train.py'
 Then Run 'streamlit run .\streamlit-ml-app.py'
+
+for testing on 
+https://paymantatar-mlflow-st-streamlit-ml-app-6ntt83.streamlit.app/
