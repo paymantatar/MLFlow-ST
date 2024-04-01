@@ -1,4 +1,4 @@
-# MLFlow-STreamlit Prediction
+# MLFlow-Streamlit ML Prediction (RandomForestClassifier)
 
 Simple overview of use/purpose.
 
@@ -19,9 +19,9 @@ Check requierments.txt
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-`"conda create -n streamlit-env python=3.10"
-""conda activate streamlit-env""
-""pip install -r requirements.txt`""
+    `"conda create -n streamlit-env python=3.10"
+    ""conda activate streamlit-env""
+    ""pip install -r requirements.txt""
 
 ### Executing program
 
